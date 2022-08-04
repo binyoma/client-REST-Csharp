@@ -1,0 +1,15 @@
+D:\c#\webapiclient\bin\Debug\net6.0\WebAPIClient.exe
+D:\c#\webapiclient\bin\Debug\net6.0\WebAPIClient.deps.json
+D:\c#\webapiclient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+D:\c#\webapiclient\bin\Debug\net6.0\WebAPIClient.dll
+D:\c#\webapiclient\bin\Debug\net6.0\WebAPIClient.pdb
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.dll
+D:\c#\webapiclient\obj\Debug\net6.0\refint\WebAPIClient.dll
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.pdb
+D:\c#\webapiclient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+D:\c#\webapiclient\obj\Debug\net6.0\ref\WebAPIClient.dll
